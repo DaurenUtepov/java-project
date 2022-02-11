@@ -1,0 +1,10 @@
+43,774,save,zero fees 2021,1000.0
+43,499,student,fees 50,0.0
+30,780,family,zero,2000.0
+30,408,save,one,1500.0
+33,806,student,some details,500.0
+18,164,student,5 monthly fees,3000.0
+89,390,Student,5% fees,1900.0
+61,303,Family,,300.0
+25,476,Student,zero fees,900.0
+16,280,Family,zero fees,500.0

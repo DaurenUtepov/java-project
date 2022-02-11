@@ -1,0 +1,7 @@
+43,paul,smith
+30,amanda,cox
+33,vanessa,grimes
+18,peter,white
+89,Smantha,Cox
+25,dauren,Utepov
+16,dauren,utepov
